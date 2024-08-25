@@ -1,4 +1,4 @@
-module github.com/templatedop/ftptemplate/fxgenerate
+module github.com/templatedop/ftptemplate/fxhealtcheck
 
 go 1.22.1
 
